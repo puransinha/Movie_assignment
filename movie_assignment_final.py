@@ -314,5 +314,4 @@ audience_reviews=actor_name['num_user_for_reviews'].mean().sort_values(ascending
 print(audience_reviews)
 
 
-# **Checkpoint 6:** `Leonardo` has aced both the lists!
-
+#
